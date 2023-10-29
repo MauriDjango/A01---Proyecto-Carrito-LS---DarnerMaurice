@@ -425,3 +425,13 @@ td,
 th {
   padding: 0;
 }
+
+
+/**
+* Controls the size for cart item images
+*/
+
+.cart-image {
+  width: 100px;
+  height: 100px;
+}
